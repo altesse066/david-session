@@ -65,14 +65,14 @@ router.get('/', async (req, res) => {
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+❶ || Creator = 𖥘 Chadro young 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+❷ || WhattsApp Channel = Suivre la chaîne Chadro Bug Crash🦠🦂 sur WhatsApp  : https://whatsapp.com/channel/0029VankG9pF6smsyBN4IX3h
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+cliquez cet lien pour intégrer notre Groupe WhatsApp=https://chat.whatsapp.com/Ej9x9ouh2CF4j6Vb5TfN1m
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+©*2024-2099 Chadro young*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
